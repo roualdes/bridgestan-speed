@@ -169,3 +169,6 @@ test_models/gaussian/gaussian.hpp
 test_models/logistic/logistic.hpp
 test_models/simple/simple.hpp
 test_models/sir/sir.hpp
+
+bridgestan
+experimentalHMC
